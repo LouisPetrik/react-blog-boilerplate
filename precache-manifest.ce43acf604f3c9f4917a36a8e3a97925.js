@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/react-blog-boilerplate/static/js/runtime~main.69b17513.js"
   },
   {
-    "revision": "e0b071a2c6d01e9609f1",
-    "url": "/react-blog-boilerplate/static/js/main.cf162fd0.chunk.js"
+    "revision": "bfe0edf6d969970a9789",
+    "url": "/react-blog-boilerplate/static/js/main.09625adf.chunk.js"
   },
   {
     "revision": "10534ad094e56cc863c6",
     "url": "/react-blog-boilerplate/static/js/2.4b44abd2.chunk.js"
   },
   {
-    "revision": "e0b071a2c6d01e9609f1",
-    "url": "/react-blog-boilerplate/static/css/main.71faa9d8.chunk.css"
+    "revision": "bfe0edf6d969970a9789",
+    "url": "/react-blog-boilerplate/static/css/main.c38440c7.chunk.css"
   },
   {
-    "revision": "875288a48850d34b92a3846be61a995f",
+    "revision": "ed589509dfee9c38aad8e43cd08dfe23",
     "url": "/react-blog-boilerplate/index.html"
   }
 ];
