@@ -1,7 +1,7 @@
 import React from "react"
 import "./Table.css"
 
-let persons = ["max", "tim", "tom"]
+
 const Table = (props) => {
 
    const TableHead = () => {
@@ -10,13 +10,15 @@ const Table = (props) => {
       })
    }
 
+  
+
    
 
    return (
       <React.Fragment>
-         <table>
+         <table cellSpacing="0">
             <thead>
-               <tr>
+               <tr id="firstTR">
                   <TableHead/>
                </tr>
             </thead>
