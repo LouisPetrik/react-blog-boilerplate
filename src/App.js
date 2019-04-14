@@ -50,7 +50,7 @@ class App extends Component {
 
                   <h2 className="section-headline">Tables are so cool:</h2>
 
-                  
+                  <Table titles={["eins", "zwei", "drei"]}/>
 
          
               </div>
