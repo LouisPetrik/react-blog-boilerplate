@@ -1,5 +1,5 @@
 {
-  "main.css": "/react-blog-boilerplate/static/css/main.d24a5bc7.chunk.css",
+  "main.css": "/react-blog-boilerplate/static/css/main.71faa9d8.chunk.css",
   "main.js": "/react-blog-boilerplate/static/js/main.cf162fd0.chunk.js",
   "main.js.map": "/react-blog-boilerplate/static/js/main.cf162fd0.chunk.js.map",
   "runtime~main.js": "/react-blog-boilerplate/static/js/runtime~main.69b17513.js",
@@ -7,8 +7,8 @@
   "static/js/2.4b44abd2.chunk.js": "/react-blog-boilerplate/static/js/2.4b44abd2.chunk.js",
   "static/js/2.4b44abd2.chunk.js.map": "/react-blog-boilerplate/static/js/2.4b44abd2.chunk.js.map",
   "index.html": "/react-blog-boilerplate/index.html",
-  "precache-manifest.60bd26cbb23d7d7aa2fb9ea97c88e583.js": "/react-blog-boilerplate/precache-manifest.60bd26cbb23d7d7aa2fb9ea97c88e583.js",
+  "precache-manifest.97ed5934079e976be8951629ec46fc99.js": "/react-blog-boilerplate/precache-manifest.97ed5934079e976be8951629ec46fc99.js",
   "service-worker.js": "/react-blog-boilerplate/service-worker.js",
-  "static/css/main.d24a5bc7.chunk.css.map": "/react-blog-boilerplate/static/css/main.d24a5bc7.chunk.css.map",
+  "static/css/main.71faa9d8.chunk.css.map": "/react-blog-boilerplate/static/css/main.71faa9d8.chunk.css.map",
   "static/media/sunset.jpg": "/react-blog-boilerplate/static/media/sunset.4e970dd1.jpg"
 }
