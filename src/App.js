@@ -10,10 +10,17 @@ class App extends Component {
     return (
       <React.Fragment>
 
-      <div className="date">20 April 2019</div>
+      
 
       <h1 className="headline">This is an example</h1>
-      
+
+      {/*  datetime is for the searchengines */}
+      <div className="time-wrapper">
+         <time datetime="2019-4-20">
+            April 20, 2019
+         </time>
+      </div>
+  
 
       <div className="container">
 
